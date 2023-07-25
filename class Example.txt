@@ -1,0 +1,15 @@
+class Example{
+       public static void main(String args[]){
+          maths,english    
+          int maths;  //declare
+          int english;
+          
+           maths=40;
+            english=67;
+            System.out.println(maths);
+            System.out.println(english);
+                
+
+}
+
+ }
